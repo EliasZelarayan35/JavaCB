@@ -1,0 +1,42 @@
+acceptCookies = acceptCookieButton
+desde = originInput-input
+hacia = destinationInput-input
+fecha desde (first click) = ("button[data-testid='depart-btn']")
+
+
+
+*********************************************************************************************************
+If you're playing as White and your opponent is playing the Ruy Lopez (Spanish Opening), there are several ways to approach it. Here are a few popular options:
+
+Exchange Variation: One simple and solid approach is the Exchange Variation, where White plays 4.d4 exd4 5.O-O. This leads to symmetrical pawn structures and simplifies the position. White can aim for a slight lead in development and try to press for a small advantage in the middlegame.
+
+Closed Ruy Lopez: Another common approach is to play the Closed Ruy Lopez with 4.O-O. This move aims to maintain the tension in the center and prepare for a slower buildup of the position. White can follow up with moves like c3, d3, and Re1, aiming to control the center and prepare for a kingside attack or a pawn break with d4 later in the game.
+
+Open Ruy Lopez: Alternatively, White can opt for the Open Ruy Lopez with 4.O-O Nxe4, entering the Open Variation. This leads to asymmetrical pawn structures and more dynamic play. White can aim to use the open lines to create attacking chances against Black's king while also focusing on developing the pieces efficiently.
+
+The Delayed Exchange Variation: White can play 4.Ba4, the mainline move of the Ruy Lopez, but defer the exchange on c6 until a later move, allowing for more flexible options. This can lead to a variety of positions depending on how both players continue.
+
+Each of these options offers different types of positions and strategic ideas, so it's essential to choose the one that aligns with your preferred style of play and your understanding of the resulting pawn structures and plans. Additionally, studying games played by strong players in the Ruy Lopez can provide valuable insights into the nuances of each variation.
+
+
+************************************************************************************************************************
+
+
+
+Countering the Ruy Lopez (Spanish Opening) requires understanding its main ideas and typical plans. Here are a few general principles and specific variations that Black can use to counter the Ruy Lopez:
+
+Berlin Defense: This is one of the most solid and popular ways for Black to counter the Ruy Lopez. After 1. e4 e5 2. Nf3 Nc6 3. Bb5, Black plays 3...Nf6, immediately challenging White's center and preparing to castle kingside. The Berlin Defense often leads to endgame positions with simplified pawn structures.
+
+Schliemann Defense: Also known as the Jaenisch Gambit, Black sacrifices a pawn with 3...f5, aiming to counterattack in the center and on the kingside. This leads to dynamic and imbalanced positions.
+
+Steinitz Defense: Named after the former World Champion Wilhelm Steinitz, Black plays 3...a6, immediately attacking the bishop on b5. After 4. Ba4, Black plays 4...d6 or 4...Nf6, aiming for a solid setup and preparing to develop the pieces.
+
+Classical Defense: Black plays 3...Bc5, known as the Classical Defense. This move aims to control the center and prepare for rapid development. The game can transpose into various lines depending on White's response, such as the main line with 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+.
+
+Bird Defense: Black plays 3...Nd4, known as the Bird Defense. This move challenges White's central control and creates imbalances early in the game.
+
+Modern Steinitz Defense: Black plays 3...d6, followed by ...Nf6 and ...Bc5, aiming for a solid setup with flexible piece development.
+
+Remember, while specific variations can be useful, understanding the underlying principles of development, control of the center, and king safety is crucial in countering the Ruy Lopez effectively. Additionally, studying games played by strong players in the Ruy Lopez can provide valuable insights and ideas for both sides.
+
+*************************************************************************************************************************
